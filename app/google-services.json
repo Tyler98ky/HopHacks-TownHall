@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "25137302361",
+    "firebase_url": "https://local-knowledge-notification.firebaseio.com",
+    "project_id": "local-knowledge-notification",
+    "storage_bucket": "local-knowledge-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25137302361:android:f42dcf3c8a3fdafe",
+        "android_client_info": {
+          "package_name": "com.localknowledge.localknowledge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25137302361-v1badgkusoeuda32lk3j2s3gstq743dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRvxx5bVEjd10MixQM9jn2QHRNI9nIFmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
